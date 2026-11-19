@@ -1,0 +1,11 @@
+{
+  "id": "/",
+  "name": "EveryYear 음력 알림",
+  "short_name": "EveryYear",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5fa",
+  "theme_color": "#14243a",
+  "lang": "ko"
+}
